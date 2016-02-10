@@ -1,0 +1,1 @@
+let message = 'hello from ES6';

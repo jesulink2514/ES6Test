@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "target": "ES6",
+      "module": "amd"
+  },
+  "files": [
+      "src/app.js"
+  ]
+}
